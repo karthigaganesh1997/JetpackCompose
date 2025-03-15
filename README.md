@@ -1,6 +1,6 @@
 # JetpackCompose
- API List Viewer with Clean Architecture
- This project demonstrates a modern Android app following Clean Architecture principles. It retrieves a list of data from a remote API using Retrofit, displays the list in a Jetpack Compose UI, and stores the list locally in a Room database. The app uses Dagger Hilt for dependency injection to manage dependencies efficiently.
+#API List Viewer with Clean Architecture
+This project demonstrates a modern Android app following Clean Architecture principles. It retrieves a list of data from a remote API using Retrofit, displays the list in a Jetpack Compose UI, and stores the list locally in a Room database. The app uses Dagger Hilt for dependency injection to manage dependencies efficiently.
 Key Features:
     Clean Architecture: The app is structured into layers, separating concerns and making the codebase scalable and maintainable.
     Jetpack Compose: Utilizes Jetpack Compose to build the UI in a declarative and modern way.
